@@ -1,0 +1,4 @@
+- 👋 Hi, I’m GamePillow
+- 👀 I’m interested in Construct 3 And Making Games
+- 🌱 I’m currently learning Construct 3 and have been for 3 and a half years
+- 📫 How to reach me game20pillow@gmail.com
